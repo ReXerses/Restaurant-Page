@@ -13,7 +13,7 @@ const caricaStoria = (() => {
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 50% 30%;
-        height: 100vh;
+        height: 100%;
         display: flex;
         justify-content: center;
         align-items: center;    
