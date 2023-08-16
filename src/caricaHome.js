@@ -26,14 +26,14 @@ const caricaHome = (() => {
     }
 
     .primaParte {
-        background-image: url(/home/rexerses/repos/Restaurant-Page/src/media/primaParte.jpg);
+        background-image: url(../src/media/primaParte.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 50% 50%;
     }
 
     .secondaParte {
-        background-image: url(/home/rexerses/repos/Restaurant-Page/src/media/secondaParte.jpg);
+        background-image: url(../src/media/secondaParte.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 50% 30%;

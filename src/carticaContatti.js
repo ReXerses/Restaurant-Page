@@ -16,7 +16,7 @@ const caricaContatti = (() => {
             max-height: 100%;
             min-height: 100vh;
             justify-content: space-around;
-            background-image: url(/home/rexerses/repos/Restaurant-Page/src/media/Reggia.jpg);
+            background-image: url(../src/media/Reggia.jpg);
             background-size: cover;
             background-repeat: no-repeat;
             background-position: 50% 50%;

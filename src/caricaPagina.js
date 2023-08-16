@@ -61,19 +61,19 @@ const caricaPagina = (() => {
       }
 
       #IG {
-        background-image:url(/home/rexerses/repos/Restaurant-Page/src/media/instagram.png);
+        background-image:url(../src/media/instagram.png);
         background-size: 100% 100%;
       }
       #FB {
-        background-image:url(/home/rexerses/repos/Restaurant-Page/src/media/facebook.png);
+        background-image:url(../src/media/facebook.png);
         background-size: 100% 100%;
       }
       #TIK {
-        background-image:url(/home/rexerses/repos/Restaurant-Page/src/media/tiktok.png);
+        background-image:url(../src/media/tiktok.png);
         background-size: 100% 100%;
       }
       #YT {
-        background-image:url(/home/rexerses/repos/Restaurant-Page/src/media/youtube.png);
+        background-image:url(../src/media/youtube.png);
         background-size: 100% 100%;
       }
     </style>

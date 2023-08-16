@@ -9,7 +9,7 @@ const caricaStoria = (() => {
     }
     
     .storia {
-        background-image: url(/home/rexerses/repos/Restaurant-Page/src/media/background.jpg);
+        background-image: url(../src/media/background.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: 50% 30%;
@@ -20,7 +20,7 @@ const caricaStoria = (() => {
     }
     
     .racconto {
-        background-image: url(/home/rexerses/repos/Restaurant-Page/src/media/10.jpg);
+        background-image: url(../src/media/10.jpg);
         padding: 16px;
         border: 2px solid black;
         font-size: 1.4rem;

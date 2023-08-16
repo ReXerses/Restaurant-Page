@@ -10,7 +10,7 @@ const caricaMenu = (() => {
             }
             
             .menu {
-                background-image: url(/home/rexerses/repos/Restaurant-Page/src/media/background.jpg);
+                background-image: url(../src/media/background.jpg);
                 background-size: cover;
                 background-repeat: no-repeat;
                 background-position: 50% 30%;
@@ -98,7 +98,7 @@ const caricaMenu = (() => {
         <div class="content">
             
                 <div class="card">
-                    <img src="/home/rexerses/repos/Restaurant-Page/src/media/pizza1.jpg" alt="Pizza: Profumo di Bosco">
+                    <img src="../src/media/pizza1.jpg" alt="Pizza: Profumo di Bosco">
                     <div class="descrizione">
                         <p class="nome">PROFUMO DI BOSCO</p>
                         <p class="ingredienti">Ingredienti:</p>
@@ -107,7 +107,7 @@ const caricaMenu = (() => {
                 </div>
 
                 <div class="card">
-                    <img src="/home/rexerses/repos/Restaurant-Page/src/media/pizza2.jpg" alt="Pizza: Ortona">
+                    <img src="../src/media/pizza2.jpg" alt="Pizza: Ortona">
                     <div class="descrizione">
                         <p class="nome">ORTONA</p>
                         <p class="ingredienti">Ingredienti:</p>
@@ -116,7 +116,7 @@ const caricaMenu = (() => {
                 </div>
 
                 <div class="card">
-                    <img src="/home/rexerses/repos/Restaurant-Page/src/media/pizza3.jpg" alt="Pizza: Margherita">
+                    <img src="../src/media/pizza3.jpg" alt="Pizza: Margherita">
                     <div class="descrizione">
                         <p class="nome">MARGHERITA</p>
                         <p class="ingredienti">Ingredienti:</p>
@@ -125,7 +125,7 @@ const caricaMenu = (() => {
                 </div>
 
                 <div class="card">
-                    <img src="/home/rexerses/repos/Restaurant-Page/src/media/pizza4.jpg" alt="Pizza: Marinara">
+                    <img src="../src/media/pizza4.jpg" alt="Pizza: Marinara">
                     <div class="descrizione">
                         <p class="nome">MARINARA</p>
                         <p class="ingredienti">Ingredienti:</p>
@@ -134,7 +134,7 @@ const caricaMenu = (() => {
                 </div>
 
                 <div class="card">
-                    <img src="/home/rexerses/repos/Restaurant-Page/src/media/pizza5.jpg" alt="Pizza: salsiccia e friarielli">
+                    <img src="../src/media/pizza5.jpg" alt="Pizza: salsiccia e friarielli">
                     <div class="descrizione">
                         <p class="nome">SALSICCIA E FRIARIELLI</p>
                         <p class="ingredienti">Ingredienti:</p>
@@ -143,7 +143,7 @@ const caricaMenu = (() => {
                 </div>
 
                 <div class="card">
-                    <img src="/home/rexerses/repos/Restaurant-Page/src/media/pizza6.jpg" alt="Pizza: Campestre">
+                    <img src="/../src/media/pizza6.jpg" alt="Pizza: Campestre">
                     <div class="descrizione">
                         <p class="nome">CAMPESTRE</p>
                         <p class="ingredienti">Ingredienti:</p>
